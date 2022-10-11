@@ -1,5 +1,5 @@
-# Expo X Docker
-> Starter kit for building React Native Expo app with Docker and Docker Compose.  
+# Expo X Typescript X Docker
+> Starter kit for building React Native Expo Typescript app with Docker and Docker Compose.  
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,7 +11,7 @@
 
 ## General Information
 - No dependencies required except [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/compose-file/)
-- Build an app from scratch with [expo-template-blank](https://github.com/expo/expo/tree/main/templates/expo-template-blank)
+- Build an app from scratch with [expo-template-blank-typescript](https://github.com/expo/expo/tree/main/templates/expo-template-blank-typescript)
 
 
 ## Technologies Used
